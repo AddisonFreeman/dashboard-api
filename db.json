@@ -1,0 +1,21 @@
+{"data":
+  {  
+    "charts": 
+    [ {
+          "chats": {
+            "ACT": "20%",
+            "Automated" : "70%"
+        }
+      },{ "Automated Chats":  {
+            "value": "28,381"
+        }
+      },{ "Automation Goal": {
+            "value": "70%"
+          }
+      },{ "Average Holding Time": {
+           "value": "1 min 58 sec"
+         }
+      }
+    ]
+  }
+}
