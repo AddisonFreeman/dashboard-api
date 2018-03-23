@@ -5,6 +5,7 @@
         { 
           "type": "table",
           "id": "table1",
+          "classes" : "grid-item--width2 table1",
           "Automated Chat Logs": {
             "Date": "3/1/18",
             "Raw Chat Log" : "Addison: Hello"
@@ -12,6 +13,7 @@
       },{
           "type": "chart",
           "id": "chart1",
+          "classes": "",
           "Chats": {
             "ACT": "20%",
             "Automated" : "70%"
@@ -19,24 +21,28 @@
       },{
         "type": "count",
         "id": "count1",
+        "classes": "",        
         "Automated Chats":  {
             "value": "28,381"
         }
       },{ 
         "type": "chart",  
         "id": "chart2",        
+        "classes": "",        
         "Automation Goal": {
             "value": "70%"
         }
       },{ 
         "type": "count", 
-        "id": "count2",        
+        "id": "count2",    
+        "classes": "",        
         "Average Holding Time": {
            "value": "1 min 58 sec"
         }
       },{ 
         "type": "table", 
-        "id": "table2",        
+        "id": "table2", 
+        "classes" : "grid-item--width2 table2",
         "Live Intgration Status": {
            "Ensemble": "Active",
            "Equifax": "Slow",
