@@ -1,20 +1,32 @@
 {"data":
   {  
     "charts": 
-    [ {
-          "chats": {
+    [   
+        {
+          "Automated Chat Logs": {
+            "Date": "3/1/18",
+            "Raw Chat Log" : "Addison: Hello"
+          }
+      },{
+          "Chats": {
             "ACT": "20%",
             "Automated" : "70%"
-        }
+          }
       },{ "Automated Chats":  {
             "value": "28,381"
-        }
+          }
       },{ "Automation Goal": {
             "value": "70%"
           }
       },{ "Average Holding Time": {
            "value": "1 min 58 sec"
-         }
+          }
+      },{ "Live Intgration Status": {
+           "Ensemble": "Active",
+           "Equifax": "Slow",
+           "Thompson Reuters CLEAR": "Disconnected",
+           "LiveEngage": "Active",        
+          }
       }
     ]
   }
