@@ -15,8 +15,8 @@
           "id": "chart1",
           "classes": "",
           "Chats": {
-            "ACT": "20%",
-            "Automated" : "70%"
+            "ACT": "20",
+            "Automated" : "70"
           }
       },{
         "type": "count",
