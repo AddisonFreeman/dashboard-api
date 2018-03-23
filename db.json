@@ -4,33 +4,39 @@
     [   
         { 
           "type": "table",
+          "id": "table1",
           "Automated Chat Logs": {
             "Date": "3/1/18",
             "Raw Chat Log" : "Addison: Hello"
           }
       },{
           "type": "chart",
+          "id": "chart1",
           "Chats": {
             "ACT": "20%",
             "Automated" : "70%"
           }
       },{
-        "type": "chart",
+        "type": "count",
+        "id": "count1",
         "Automated Chats":  {
             "value": "28,381"
         }
       },{ 
-        "type": "chart",        
+        "type": "chart",  
+        "id": "chart2",        
         "Automation Goal": {
             "value": "70%"
         }
       },{ 
-        "type": "chart",        
+        "type": "count", 
+        "id": "count2",        
         "Average Holding Time": {
            "value": "1 min 58 sec"
         }
       },{ 
-        "type": "table",        
+        "type": "table", 
+        "id": "table2",        
         "Live Intgration Status": {
            "Ensemble": "Active",
            "Equifax": "Slow",
