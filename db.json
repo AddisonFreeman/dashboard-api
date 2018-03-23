@@ -30,7 +30,7 @@
            "value": "1 min 58 sec"
         }
       },{ 
-        "type": "chart",        
+        "type": "table",        
         "Live Intgration Status": {
            "Ensemble": "Active",
            "Equifax": "Slow",
