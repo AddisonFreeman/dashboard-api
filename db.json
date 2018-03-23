@@ -11,7 +11,7 @@
             "Raw Chat Log" : "Addison: Hello"
           }
       },{
-          "type": "chart",
+          "type": "donut",
           "id": "chart1",
           "classes": "",
           "Chats": {
@@ -26,7 +26,7 @@
             "value": "28,381"
         }
       },{ 
-        "type": "chart",  
+        "type": "gauge",  
         "id": "chart2",        
         "classes": "",        
         "Automation Goal": {
